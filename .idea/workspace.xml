@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba9c2a85-a270-44f8-aa62-62be0deec092" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="ba9c2a85-a270-44f8-aa62-62be0deec092" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660924278135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Got rid of the while loop. Replaced with a nested for loop. Works ok.">
+      <created>1660925158599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660925158599</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +105,8 @@
     <MESSAGE value="Initial Commit." />
     <MESSAGE value="Added my first loop." />
     <MESSAGE value="Added a bug! The loop doesn't end..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a bug! The loop doesn't end..." />
+    <MESSAGE value="Got rid of the while loop. Replaced with a nested for loop. Works ok." />
+    <option name="LAST_COMMIT_MESSAGE" value="Got rid of the while loop. Replaced with a nested for loop. Works ok." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
