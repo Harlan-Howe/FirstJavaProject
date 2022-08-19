@@ -17,22 +17,18 @@ public class FirstClass
 //        numStooges += 1;
 //        numStooges++;
         System.out.println("Now, with Shemp, there are "+numStooges+" stooges.");
-
-        int a = 0;
-        while (a < 100)
+        int i;
+        for (int x = 1; x < 30; x = x * 2)
         {
-            System.out.print(a + " --> ");
+            System.out.print(x+"\t");
 
-            if (a == 32)
+            for (i=0; i<x; i++)
             {
-                System.out.println("It's 32.");
-//                break;
-                continue;
+                System.out.print("*");
             }
-            a = a + 2;
-            System.out.println(a);
+            System.out.println(i+"");
         }
-
+        System.out.println("\nDone.");
     }
 
 }
